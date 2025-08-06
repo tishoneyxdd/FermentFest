@@ -33,7 +33,7 @@ const Footer: React.FC = () => {
         {/* GitHub Link */}
         <div className="mb-8">
           <a 
-            href="https://github.com/shivambadhopulu" 
+            href="https://github.com/tishoneyxdd" 
             target="_blank" 
             rel="noopener noreferrer"
             className="inline-flex items-center space-x-3 bg-gradient-to-r from-gray-700 to-gray-800 hover:from-gray-600 hover:to-gray-700 px-6 py-3 rounded-full transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl border border-gray-600"
